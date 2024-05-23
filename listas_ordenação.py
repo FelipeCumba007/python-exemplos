@@ -9,4 +9,4 @@ alunos.sort()
 print(f"Lista cresente: {alunos}")
 # Ordena a Lista Decrescente
 alunos.sort(reverse=True)
-print(f"Lista decrescente: {alunos}")
+print(f"Lista decrescente: {alunos}")   
